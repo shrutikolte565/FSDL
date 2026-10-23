@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FSDL Assignments
 
 This repository contains a collection of web development assignments and mini projects completed as part of the FSDL coursework. The projects span static webpages, interactive front-end pages, and full-stack applications built with Node.js, Express, and MongoDB.
@@ -56,3 +57,6 @@ This repository is intended for academic and learning purposes, showcasing pract
 ## Hosted Link
 https://pruthvi3006.github.io/My-Portfolio/
 
+=======
+# FSDL
+>>>>>>> 6256c4da68ca3bf6e796ea4a5ab07c14b027fb66
